@@ -7,7 +7,7 @@
 * Identify the effect of independent attributes on price of cars
 
 Table of Contents
-* Import Data from Module
+* Import Data
 * Analyzing Individual Feature Patterns using Visualization
 * Descriptive Statistical Analysis
 * Basics of Grouping
